@@ -10,7 +10,7 @@ def show():
         db = mysql.connector.connect(
             host='localhost',
             user='root',
-            password='Ataberk1*',
+            #ADD PASSWORD HERE
             database='kullanici_bilgileri'
         )
 
