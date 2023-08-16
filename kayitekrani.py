@@ -15,7 +15,7 @@ def yeniKayit():
         db = mysql.connector.connect(
             host='localhost',
             user='root',
-            password='Ataberk1*',
+            password='ADDPASSHERE',
             database='kullanici_bilgileri'
         )
 
